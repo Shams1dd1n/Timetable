@@ -1,0 +1,143 @@
+.layout {
+    background-color: #fff;
+}
+
+.layout1 {
+    background-color: #fff;
+    font-size: 24px;
+}
+
+.header {
+    padding: 20px 50px;
+    margin: 20px 50px;
+    display: flex;
+    gap: 20px;
+    font-size: 24px;
+
+}
+
+.header1 {
+
+}
+
+.main {
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid #c55916;
+    background-color: #ff6200;
+
+}
+
+.students {
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid #c55916;
+    background-color: #ff6200;
+
+}
+
+.sib {
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid #c55916;
+    background-color: #ff6200;
+
+}
+
+.about {
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid #c55916;
+    background-color: #ff6200;
+
+}
+
+.event {
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid #c55916;
+    background-color: #ff6200;
+
+}
+
+.table {
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid #c55916;
+    background-color: #ff6200;
+
+}
+
+.content {
+    display: flex;
+    gap: 20px;
+    padding: 20px 50px;
+    margin: 20px 50px;
+}
+
+.left {
+    width: 70%;
+    border: 2px solid #c55916;
+    background-color: #ff6200;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 24px;
+}
+
+.right {
+    width: 30%;
+    padding: 10px;
+    border: 2px solid #c55916;
+    background-color: #ff6200;
+    border-radius: 10px;
+    font-size: 24px;
+}
+
+.a {
+    width: 300px;
+
+}
+
+.b {
+    width: 300px;
+}
+
+.c {
+    width: 300px;
+}
+
+.d {
+    width: 300px;
+}
+
+.e {
+    width: 300px;
+}
+
+.f {
+    width: 300px;
+}
+
+.g {
+    width: 300px;
+}
+
+.h {
+    width: 300px;
+}
+.footer{
+    display: flex;
+    background-color: #bbb;
+    border-radius: 10px;
+    font-size: 24px;
+
+}
+.rightf{
+    width: 50%;
+}
+.leftf{
+    width: 50%;
+}
+.vertical {
+
+}
