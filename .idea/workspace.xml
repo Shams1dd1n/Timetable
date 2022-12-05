@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4bfbc33-3b1f-40bd-b609-e6f07cb9fe78" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/example-01.html" beforeDir="false" afterPath="$PROJECT_DIR$/example-01.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +20,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2IGN5qzYdeY3lBJzdyuyfgPQcuk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -44,6 +45,7 @@
       <workItem from="1669967503006" duration="2198000" />
       <workItem from="1669986057937" duration="1199000" />
       <workItem from="1670055659244" duration="5400000" />
+      <workItem from="1670136114166" duration="1931000" />
     </task>
     <servers />
   </component>
